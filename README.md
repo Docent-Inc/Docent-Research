@@ -1,6 +1,6 @@
 # Docent-Research
 
-## text classification(v1.0)
+## text classification
 [jupyter notebook](https://github.com/Docent-Inc/Docent-Research/blob/main/text_classification.ipynb)
 
 ![](https://kr.object.ncloudstorage.com/docent/Screenshot%202024-01-25%20at%203.08.44%20PM.png)
@@ -22,7 +22,7 @@
     scikit-learn: 1.3.0
     cuda: 12.3
 
-## image prompt generator(v1.0)
+## image prompt generator
 [jupyter notebook](https://github.com/Docent-Inc/Docent-Research/blob/main/%08image_prompt_generator.ipynb)
 
 ![](https://kr.object.ncloudstorage.com/docent/Group%2088.png)
